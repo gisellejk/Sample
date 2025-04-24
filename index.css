@@ -266,7 +266,7 @@ footer {
             align-items: center;
             display: block;
 
-            text-align: center;
+            margin-left: 80px;
         }
 
         .map{
