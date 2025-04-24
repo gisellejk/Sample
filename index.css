@@ -262,6 +262,8 @@ footer {
         }
 
         .phone .none{
+            width: 300px;
+            align-items: center;
             display: block;
         }
     }
