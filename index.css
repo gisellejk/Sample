@@ -265,6 +265,8 @@ footer {
             width: 300px;
             align-items: center;
             display: block;
+
+            text-align: center;
         }
     }
 
