@@ -257,22 +257,23 @@ footer {
     #contact{
         flex-direction: column;
          
-        .phone .pc{
-            display: none;
-        }
+    }
 
-        .phone .none{
-            width: 300px;
-            align-items: center;
-            display: block;
+    #contact .phone .pc{
+        display: none;
+    }
 
-            margin-left: 80px;
-        }
+    #contact .phone .none{
+        width: 300px;
+        align-items: center;
+        display: block;
 
-        .map{
-            width: 300px;
-            height: 300px;
-        }
+        margin-left: 80px;
+    }
+
+    #contact .map{
+        width: 300px;
+        height: 300px;
     }
 
 }
